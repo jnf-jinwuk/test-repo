@@ -6,6 +6,6 @@ public class Main {
 		System.out.println("hello baseball");
 		int another = 222;
 		int other = 777;
-        //Player player1 = new BaseballPlayer();
+        //Player player1 = new  BaseballPlayer();
 	}
 }
